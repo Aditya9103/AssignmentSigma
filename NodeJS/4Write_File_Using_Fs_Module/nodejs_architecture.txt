@@ -1,0 +1,12 @@
+
+Node.js Architecture:
+- Single-threaded
+- Event-driven
+- Non-blocking I/O model
+- Built on Google Chrome's V8 JavaScript Engine
+
+Advantages of Node.js:
+- Highly scalable
+- Fast execution of code
+- Handles multiple requests simultaneously
+- Great for real-time applications

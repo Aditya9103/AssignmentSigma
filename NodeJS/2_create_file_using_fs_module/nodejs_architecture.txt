@@ -1,0 +1,6 @@
+
+Node.js Architecture:
+- Single-threaded
+- Event-driven
+- Non-blocking I/O model
+- Built on Google Chrome's V8 JavaScript Engine
